@@ -1,7 +1,7 @@
 # To do after cloning the project
 
-This project uses react-router-dom Version 5, so please check your version before using it...
-Also add your model_****.h5 file in the root directory
+This project uses react-router-dom Version 5, so please check your version before using it... \
+Also add your model_****.h5 file in the root directory \
 That's all.. good luck
 
 
