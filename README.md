@@ -1,3 +1,12 @@
+# To do after cloning the project
+
+This project uses react-router-dom Version 5, so please check your version before using it...
+Also add your model_****.h5 file in the root directory
+That's all.. good luck
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
